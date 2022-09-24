@@ -1,8 +1,10 @@
 <p align="center">
 <img alt="Lucaslg7's stats" src="https://github-readme-stats.vercel.app/api?username=Lucaslg7&show_icons=true&theme=monokai&repo=github-readme-stats&api/top-langs?username=Lucaslg7">
- <p></p>
+</p>
+ <p align="center">
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucaslg7">
 </p>
+
 <!--
 **Lucaslg7/Lucaslg7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
