@@ -1,10 +1,13 @@
-<p align="center">
-<img alt="Lucaslg7's stats" src="https://github-readme-stats.vercel.app/api?username=Lucaslg7&show_icons=true&theme=monokai&repo=github-readme-stats&api/top-langs?username=Lucaslg7">
-</p>
+<div>
  <p align="center">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucaslg7">
-</p>
-
+  <img alt="Lucaslg7's stats" src="https://github-readme-stats.vercel.app/api?username=Lucaslg7&show_icons=true&theme=monokai&repo=github-readme-stats&api/top-langs?username=Lucaslg7">
+ </p>
+</div>
+<div>
+ <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucaslg7&layout=compact)">
+ </p>
+</div>
 <!--
 **Lucaslg7/Lucaslg7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -19,5 +22,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-![snake eif](https://github.com/Lucaslg7/Lucaslg7/blob/output/github-contribution-grid-snake.svg)
+<div>
+ <p align="center">
+  <img src="https://github.com/Lucaslg7/Lucaslg7/blob/output/github-contribution-grid-snake.svg">
+ </p>
+</div>
