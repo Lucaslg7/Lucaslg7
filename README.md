@@ -9,7 +9,15 @@
  </p>
 </div>
 <div>
-  ![snake eif]("https://github.com/Lucaslg7/Lucaslg7/blob/output/github-contribution-grid-snake.svg")
+  <img src="https://github.com/Lucaslg7/Lucaslg7/blob/output/github-contribution-grid-snake.svg">
+</div>
+<div>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
 </div>
 <!--
 **Lucaslg7/Lucaslg7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
