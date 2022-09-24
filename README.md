@@ -22,5 +22,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-  ![snake eir]("https://github.com/Lucaslg7/Lucaslg7/blob/output/github-contribution-grid-snake.svg")
+  ![snake eif]("https://github.com/Lucaslg7/Lucaslg7/blob/output/github-contribution-grid-snake.svg")
 
