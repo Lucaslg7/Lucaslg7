@@ -1,5 +1,8 @@
-### Hi there 👋
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucaslg7&show_icons=true&theme=monokai&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+<div>
+<p align="center">
+<img src="[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucaslg7&show_icons=true&theme=monokai&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)">
+</p>
+</div>
 <!--
 **Lucaslg7/Lucaslg7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
