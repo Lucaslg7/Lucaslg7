@@ -22,8 +22,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div>
- <p align="center">
-  <img alt="ola" src="https://github.com/Lucaslg7/Lucaslg7/blob/output/github-contribution-grid-snake.svg">
- </p>
-</div>
+  ![snake eir]("https://github.com/Lucaslg7/Lucaslg7/blob/output/github-contribution-grid-snake.svg")
+
