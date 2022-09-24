@@ -6,9 +6,12 @@
 </div>
 
 <div>
-<img align="left" alt="Lucaslg7's stats" src="https://github-readme-stats.vercel.app/api?username=Lucaslg7&show_icons=true&theme=monokai&repo=github-readme-stats&api/top-langs?username=Lucaslg7">
+<p>
+<img align="left" alt="Lucaslg7's stats" width="400px" src="https://github-readme-stats.vercel.app/api?username=Lucaslg7&show_icons=true&theme=monokai&repo=github-readme-stats&api/top-langs?username=Lucaslg7" >
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucaslg7&layout=compact&theme=monokai">
+<img align="right" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucaslg7&layout=compact&theme=monokai">
+</p>
+
 </div>
 
 <div>
