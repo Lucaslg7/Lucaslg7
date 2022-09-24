@@ -1,5 +1,6 @@
 <p align="center">
-<img alt="Lucaslg7's stats" src="https://github-readme-stats.vercel.app/api?username=Lucaslg7&show_icons=true&theme=monokai&repo=github-readme-stats">
+<img alt="Lucaslg7's stats" src="https://github-readme-stats.vercel.app/api?username=Lucaslg7&show_icons=true&theme=monokai&repo=github-readme-stats&api/top-langs?username=anuraghazra&theme=monokI">
+ <p></p>
  <img src="api/top-langs?username=anuraghazra&theme=monokI">
 </p>
 <!--
