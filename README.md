@@ -9,7 +9,9 @@
  </p>
 </div>
 <div>
+ <p align="center">
   <img src="https://github.com/Lucaslg7/Lucaslg7/blob/output/github-contribution-grid-snake.svg">
+ </p>
 </div>
 <!--
 <a href="https://github.com/anuraghazra/github-readme-stats">
