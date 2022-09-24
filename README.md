@@ -1,18 +1,19 @@
 <div>
- <p align="center">
-  <img alt="Lucaslg7's stats" src="https://github-readme-stats.vercel.app/api?username=Lucaslg7&show_icons=true&theme=monokai&repo=github-readme-stats&api/top-langs?username=Lucaslg7">
- </p>
+  <img src="https://streak-stats.demolab.com/?user=Lucaslg7">
 </div>
+
 <div>
- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucaslg7&layout=compact&theme=monokai">
- </p>
+<img align="center" alt="Lucaslg7's stats" src="https://github-readme-stats.vercel.app/api?username=Lucaslg7&show_icons=true&theme=monokai&repo=github-readme-stats&api/top-langs?username=Lucaslg7">
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucaslg7&layout=compact&theme=monokai">
 </div>
+
 <div>
  <p align="center">
   <img src="https://github.com/Lucaslg7/Lucaslg7/blob/output/github-contribution-grid-snake.svg">
  </p>
 </div>
+
 <!--
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
