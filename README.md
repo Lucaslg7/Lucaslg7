@@ -1,6 +1,6 @@
 <div>
   <p align="center">
-    <img src="https://streak-stats.demolab.com/?user=Lucaslg7">
+    <img src="https://streak-stats.demolab.com/?user=Lucaslg7$theme="highcontrast">
   </p>
   
 </div>
