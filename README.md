@@ -1,11 +1,11 @@
 <div>
-  <img src="https://streak-stats.demolab.com/?user=Lucaslg7">
+  <img align="center" src="https://streak-stats.demolab.com/?user=Lucaslg7">
 </div>
 
 <div>
-<img align="center" alt="Lucaslg7's stats" src="https://github-readme-stats.vercel.app/api?username=Lucaslg7&show_icons=true&theme=monokai&repo=github-readme-stats&api/top-langs?username=Lucaslg7">
+<img align="left" alt="Lucaslg7's stats" src="https://github-readme-stats.vercel.app/api?username=Lucaslg7&show_icons=true&theme=monokai&repo=github-readme-stats&api/top-langs?username=Lucaslg7">
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucaslg7&layout=compact&theme=monokai">
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucaslg7&layout=compact&theme=monokai">
 </div>
 
 <div>
