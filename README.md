@@ -1,7 +1,7 @@
 <p align="center">
 <img alt="Lucaslg7's stats" src="https://github-readme-stats.vercel.app/api?username=Lucaslg7&show_icons=true&theme=monokai&repo=github-readme-stats&api/top-langs?username=Lucaslg7">
  <p></p>
- <img src="api/top-langs?username=anuraghazra&theme=monokI">
+ <img src="api/top-langs?username=Lucaslg7&theme=monokI](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats">
 </p>
 <!--
 **Lucaslg7/Lucaslg7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
