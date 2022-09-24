@@ -1,5 +1,8 @@
 <div>
-  <img align="center" src="https://streak-stats.demolab.com/?user=Lucaslg7">
+  <p align="center">
+    <img src="https://streak-stats.demolab.com/?user=Lucaslg7">
+  </p>
+  
 </div>
 
 <div>
