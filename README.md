@@ -24,6 +24,6 @@ Here are some ideas to get you started:
 -->
 <div>
  <p align="center">
-  ![snake eir]("https://github.com/Lucaslg7/Lucaslg7/blob/output/github-contribution-grid-snake.svg")
+  <img src="https://github.com/Lucaslg7/Lucaslg7/blob/output/github-contribution-grid-snake.svg">
  </p>
 </div>
