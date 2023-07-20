@@ -10,10 +10,6 @@
 
 <img align="right" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucaslg7&layout=compact&theme=monokai">
 </div>
-
-<div>
-  <img align="center" src="https://github.com/Lucaslg7/Lucaslg7/blob/output/github-contribution-grid-snake.svg">
-</div>
 </div>
   
   ##
@@ -65,5 +61,7 @@
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=footer"/> 
+
+![snake gif](https://github.com/Lucaslg7/Lucaslg7/blob/output/github-contribution-grid-snake.svg)
 
 
