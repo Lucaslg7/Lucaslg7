@@ -62,5 +62,9 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=footer"/> 
 
-![snake gif](https://github.com/Lucaslg7/Lucaslg7/blob/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lucaslg7/Lucaslg7/output/github-contribution-grid-snake-dark.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Lucaslg7/Lucaslg7/output/github-contribution-grid-snake.svg">
+</picture>
+
 
