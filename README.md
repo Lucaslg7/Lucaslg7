@@ -28,16 +28,9 @@
  
 <!-- badges, com trofeu --> 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Lucaslg7&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+<!--   <img src="https://github-profile-trophy.vercel.app/?username=Lucaslg7&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" /> -->
 </p> 
-
- <!-- redes sociais e profissional -->
  
-<div align="center">
-<a href = "mailto:lucasmoizinholg7@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- </div> 
- 
- <!-- Linguagens que estou aprendendo -->
  <div align="center">
 
  ### Languangues that I'm learning:
