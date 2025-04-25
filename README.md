@@ -8,18 +8,20 @@
 <div align="center">
 <img align="center" alt="Lucaslg7's stats" width="350px" src="https://github-readme-stats.vercel.app/api?username=Lucaslg7&show_icons=true&theme=monokai&repo=github-readme-stats&api/top-langs?username=Lucaslg7">
 
-<img align="center" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucaslg7&langs_count=8&count_private=true&layout=compact&theme=monokai">
+<img align="center" width="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucaslg7&langs_count=8&count_private=true&layout=compact&theme=monokai">
 <!--https://github-readme-stats.vercel.app/api/top-langs/?username=Lucaslg7&layout=compact&theme=monokai-->
 
 </div>
 
  <div align="center"> 
+   <br>
   <!-- <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a> --> 
-  <a href="https://instagram.com/lucas_gabriel432" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
+  <!--<a href="https://instagram.com/lucas_gabriel432" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>-->
   <a href = "mailto:lucasmoizinholg7@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/lucas-gabriel-moizinho-da-silva-758750269/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
  
- <img src="https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white">
+ <!--<img src="https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white">-->
+ <br>
 </div>
  <!-- Barra superior e inferior --> 
  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=header"/>
